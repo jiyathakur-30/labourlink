@@ -6,6 +6,7 @@ interface LoginProps {
 }
 
 export const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
+const API_URL = import.meta.env.VITE_API_URL || '';
   const [role, setRole] = useState<'WORKER' | 'CUSTOMER' | 'CONTRACTOR' | 'ADMIN'>('WORKER');
   const [isRegister, setIsRegister] = useState<boolean>(false);
   
@@ -44,7 +45,7 @@ export const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
 
   const fetchSkills = async () => {
     try {
-      const res = await fetch('/api/customer/skills');
+      const res = await fetch(`${API_URL}/api/customer/skills`);
       if (res.ok) {
         const data = await res.json();
         setSkillsTaxonomy(data);
@@ -59,7 +60,9 @@ export const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
     setErrorText(null);
     setLoading(true);
 
-    const url = isRegister ? '/api/auth/register' : '/api/auth/login';
+ const url = isRegister
+  ? `${API_URL}/api/auth/register`
+  : `${API_URL}/api/auth/login`;
     const payload = isRegister ? {
       phone,
       password,
@@ -92,7 +95,7 @@ export const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
       if (!response.ok) throw new Error(data.error || 'Authentication failed');
 
       // Fetch profile info
-      const meRes = await fetch('/api/auth/me');
+     const meRes = await fetch(`${API_URL}/api/auth/me`);
       if (meRes.ok) {
         const meData = await meRes.json();
         onLoginSuccess(meData.user, meData.profileId);
