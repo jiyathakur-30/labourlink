@@ -1,0 +1,1975 @@
+{
+  "users": [
+    {
+      "id": "43b1ef3a-4285-440e-a9a7-1718d95677e7",
+      "role": "ADMIN",
+      "full_name": "Meera Nair",
+      "phone": "9876543210",
+      "email": "meera.admin@labourlink.in",
+      "created_at": "2026-05-21T15:42:05.974Z",
+      "updated_at": "2026-05-21T15:42:05.974Z"
+    },
+    {
+      "id": "b6087f38-e3c5-466a-afc1-0efbd664a931",
+      "role": "ADMIN",
+      "full_name": "Arjun Sharma",
+      "phone": "9876543211",
+      "email": "arjun.admin@labourlink.in",
+      "created_at": "2026-05-21T15:42:05.976Z",
+      "updated_at": "2026-05-21T15:42:05.977Z"
+    },
+    {
+      "id": "50d040a9-a457-42d0-b9d6-a26253a9608f",
+      "role": "CONTRACTOR",
+      "full_name": "Suresh Kumar",
+      "phone": "9000000001",
+      "email": "sureshkumar@email.com",
+      "created_at": "2026-05-21T15:42:05.979Z",
+      "updated_at": "2026-05-21T15:42:05.979Z"
+    },
+    {
+      "id": "cafd5ff5-f408-449b-b210-407e5449562d",
+      "role": "CONTRACTOR",
+      "full_name": "Priya Patel",
+      "phone": "9000000002",
+      "email": "priyapatel@email.com",
+      "created_at": "2026-05-21T15:42:05.984Z",
+      "updated_at": "2026-05-21T15:42:05.984Z"
+    },
+    {
+      "id": "59e1d5a4-0c20-4bcb-a819-0b8ffa60a0f3",
+      "role": "CONTRACTOR",
+      "full_name": "Vikram Singh",
+      "phone": "9000000003",
+      "email": "vikramsingh@email.com",
+      "created_at": "2026-05-21T15:42:05.988Z",
+      "updated_at": "2026-05-21T15:42:05.988Z"
+    },
+    {
+      "id": "325996c4-b536-4225-801a-383b0eb0575d",
+      "role": "CONTRACTOR",
+      "full_name": "Anand Rao",
+      "phone": "9000000004",
+      "email": "anandrao@email.com",
+      "created_at": "2026-05-21T15:42:05.991Z",
+      "updated_at": "2026-05-21T15:42:05.991Z"
+    },
+    {
+      "id": "08af17ee-5e1f-4db1-a237-105ae90aa00f",
+      "role": "CONTRACTOR",
+      "full_name": "Sunita Deshmukh",
+      "phone": "9000000005",
+      "email": "sunitadeshmukh@email.com",
+      "created_at": "2026-05-21T15:42:05.994Z",
+      "updated_at": "2026-05-21T15:42:05.994Z"
+    },
+    {
+      "id": "70942b39-0e53-4495-943f-be2b3becc556",
+      "role": "CONTRACTOR",
+      "full_name": "Rajiv Mehta",
+      "phone": "9000000006",
+      "email": "rajivmehta@email.com",
+      "created_at": "2026-05-21T15:42:05.998Z",
+      "updated_at": "2026-05-21T15:42:05.998Z"
+    },
+    {
+      "id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "role": "WORKER",
+      "full_name": "Ramesh Prasad",
+      "phone": "8000000001",
+      "email": "rameshprasad@email.com",
+      "created_at": "2026-05-21T15:42:06.002Z",
+      "updated_at": "2026-05-21T15:42:06.002Z"
+    },
+    {
+      "id": "8965b4c5-a7dc-41ff-bdb5-30008371416b",
+      "role": "WORKER",
+      "full_name": "Amit Verma",
+      "phone": "8000000002",
+      "email": "amitverma@email.com",
+      "created_at": "2026-05-21T15:42:06.016Z",
+      "updated_at": "2026-05-21T15:42:06.016Z"
+    },
+    {
+      "id": "66226344-b558-4615-acd1-db6a6ee1bc5c",
+      "role": "WORKER",
+      "full_name": "Sunita Devi",
+      "phone": "8000000003",
+      "email": "sunitadevi@email.com",
+      "created_at": "2026-05-21T15:42:06.028Z",
+      "updated_at": "2026-05-21T15:42:06.028Z"
+    },
+    {
+      "id": "1e9846ae-89fc-4c04-ab96-2ef2f9cac382",
+      "role": "WORKER",
+      "full_name": "Rajesh Kumar",
+      "phone": "8000000004",
+      "email": "rajeshkumar@email.com",
+      "created_at": "2026-05-21T15:42:06.043Z",
+      "updated_at": "2026-05-21T15:42:06.043Z"
+    },
+    {
+      "id": "e20f9d83-8ba7-43ef-8ebd-0b889cc8abe8",
+      "role": "WORKER",
+      "full_name": "Sanjay Singh",
+      "phone": "8000000005",
+      "email": "sanjaysingh@email.com",
+      "created_at": "2026-05-21T15:42:06.057Z",
+      "updated_at": "2026-05-21T15:42:06.057Z"
+    },
+    {
+      "id": "37058aeb-af36-4e88-baa1-2fc6d564d617",
+      "role": "WORKER",
+      "full_name": "Anita Bai",
+      "phone": "8000000006",
+      "email": "anitabai@email.com",
+      "created_at": "2026-05-21T15:42:06.072Z",
+      "updated_at": "2026-05-21T15:42:06.072Z"
+    },
+    {
+      "id": "f3f41903-84dc-4b89-a8ed-a1f7396ea7dd",
+      "role": "WORKER",
+      "full_name": "Manoj Yadav",
+      "phone": "8000000007",
+      "email": "manojyadav@email.com",
+      "created_at": "2026-05-21T15:42:06.086Z",
+      "updated_at": "2026-05-21T15:42:06.086Z"
+    },
+    {
+      "id": "ebad4c0e-4937-4705-92cb-4aee0b331eee",
+      "role": "WORKER",
+      "full_name": "Vikram Rawat",
+      "phone": "8000000008",
+      "email": "vikramrawat@email.com",
+      "created_at": "2026-05-21T15:42:06.102Z",
+      "updated_at": "2026-05-21T15:42:06.102Z"
+    },
+    {
+      "id": "32e4d9b7-6a6e-4b61-8c6e-34b54f14e8e2",
+      "role": "WORKER",
+      "full_name": "Geeta Shinde",
+      "phone": "8000000009",
+      "email": "geetashinde@email.com",
+      "created_at": "2026-05-21T15:42:06.119Z",
+      "updated_at": "2026-05-21T15:42:06.119Z"
+    },
+    {
+      "id": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "role": "WORKER",
+      "full_name": "Deepak Jha",
+      "phone": "8000000010",
+      "email": "deepakjha@email.com",
+      "created_at": "2026-05-21T15:42:06.133Z",
+      "updated_at": "2026-05-21T15:42:06.133Z"
+    },
+    {
+      "id": "ed4c3017-f16d-4c71-a7be-21656f5888de",
+      "role": "WORKER",
+      "full_name": "Karan Malhotra",
+      "phone": "8000000011",
+      "email": "karanmalhotra@email.com",
+      "created_at": "2026-05-21T15:42:06.146Z",
+      "updated_at": "2026-05-21T15:42:06.146Z"
+    },
+    {
+      "id": "c1405644-0790-4d33-94b0-c0faaf93284a",
+      "role": "WORKER",
+      "full_name": "Bablu Sahni",
+      "phone": "8000000012",
+      "email": "bablusahni@email.com",
+      "created_at": "2026-05-21T15:42:06.161Z",
+      "updated_at": "2026-05-21T15:42:06.161Z"
+    },
+    {
+      "id": "2dba6d62-3218-4351-9d89-39fb2eb72f10",
+      "role": "WORKER",
+      "full_name": "Pooja Sharma",
+      "phone": "8000000013",
+      "email": "poojasharma@email.com",
+      "created_at": "2026-05-21T15:42:06.176Z",
+      "updated_at": "2026-05-21T15:42:06.176Z"
+    },
+    {
+      "id": "4a167e9d-a24d-4bf6-ba8a-aa02ecafcd80",
+      "role": "WORKER",
+      "full_name": "Hari Prasad",
+      "phone": "8000000014",
+      "email": "hariprasad@email.com",
+      "created_at": "2026-05-21T15:42:06.192Z",
+      "updated_at": "2026-05-21T15:42:06.192Z"
+    },
+    {
+      "id": "a94219fd-18a4-40a0-a945-854cbb8dd5ae",
+      "role": "WORKER",
+      "full_name": "Dinesh Ram",
+      "phone": "8000000015",
+      "email": "dineshram@email.com",
+      "created_at": "2026-05-21T15:42:06.209Z",
+      "updated_at": "2026-05-21T15:42:06.209Z"
+    }
+  ],
+  "worker_profiles": [
+    {
+      "id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "skills": "[\"mason\",\"plasterer\"]",
+      "home_lat": 28.6139,
+      "home_lng": 77.209,
+      "current_lat": 28.6139,
+      "current_lng": 77.209,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 81,
+      "trust_score_updated_at": "2026-06-20T16:05:51.964Z",
+      "trust_score_version": 3,
+      "created_at": "2026-05-21T15:42:06.004Z"
+    },
+    {
+      "id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "user_id": "8965b4c5-a7dc-41ff-bdb5-30008371416b",
+      "skills": "[\"electrician\",\"welder\"]",
+      "home_lat": 28.5355,
+      "home_lng": 77.391,
+      "current_lat": 28.5355,
+      "current_lng": 77.391,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 88,
+      "trust_score_updated_at": "2026-06-19T15:42:06.018Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.018Z"
+    },
+    {
+      "id": "637e9afe-1fe7-494c-8819-457239f76a47",
+      "user_id": "66226344-b558-4615-acd1-db6a6ee1bc5c",
+      "skills": "[\"domestic worker\",\"cook\"]",
+      "home_lat": 28.7041,
+      "home_lng": 77.1025,
+      "current_lat": 28.7041,
+      "current_lng": 77.1025,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 95,
+      "trust_score_updated_at": "2026-06-19T15:42:06.030Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.030Z"
+    },
+    {
+      "id": "debd438b-0e49-4d9c-abb4-0cc6d1294eac",
+      "user_id": "1e9846ae-89fc-4c04-ab96-2ef2f9cac382",
+      "skills": "[\"plumber\",\"fitter\"]",
+      "home_lat": 28.4595,
+      "home_lng": 77.0266,
+      "current_lat": 28.4595,
+      "current_lng": 77.0266,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 85,
+      "trust_score_updated_at": "2026-06-19T15:42:06.045Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.045Z"
+    },
+    {
+      "id": "e4b32157-a9a8-4cf2-9ee0-9e40096e07f0",
+      "user_id": "e20f9d83-8ba7-43ef-8ebd-0b889cc8abe8",
+      "skills": "[\"painter\",\"mason\"]",
+      "home_lat": 28.65,
+      "home_lng": 77.23,
+      "current_lat": 28.65,
+      "current_lng": 77.23,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 79,
+      "trust_score_updated_at": "2026-06-19T15:42:06.059Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.059Z"
+    },
+    {
+      "id": "3062ef61-8c78-44bc-a614-a69d28267292",
+      "user_id": "37058aeb-af36-4e88-baa1-2fc6d564d617",
+      "skills": "[\"domestic worker\",\"baby sitter\"]",
+      "home_lat": 28.58,
+      "home_lng": 77.15,
+      "current_lat": 28.58,
+      "current_lng": 77.15,
+      "availability_status": "AVAILABLE",
+      "verification_status": "PENDING",
+      "trust_score": null,
+      "trust_score_updated_at": null,
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.075Z"
+    },
+    {
+      "id": "ab8839af-eee0-43c9-b6c0-a4373d265d10",
+      "user_id": "f3f41903-84dc-4b89-a8ed-a1f7396ea7dd",
+      "skills": "[\"driver\",\"helper\"]",
+      "home_lat": 28.4089,
+      "home_lng": 77.3178,
+      "current_lat": 28.4089,
+      "current_lng": 77.3178,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 90,
+      "trust_score_updated_at": "2026-06-19T15:42:06.088Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.088Z"
+    },
+    {
+      "id": "964e6cc2-9898-4791-85b0-81e74331edda",
+      "user_id": "ebad4c0e-4937-4705-92cb-4aee0b331eee",
+      "skills": "[\"carpenter\",\"mason\"]",
+      "home_lat": 28.63,
+      "home_lng": 77.08,
+      "current_lat": 28.63,
+      "current_lng": 77.08,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 82,
+      "trust_score_updated_at": "2026-06-19T15:42:06.104Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.104Z"
+    },
+    {
+      "id": "497b9010-7453-4a97-ac54-0feb29869b20",
+      "user_id": "32e4d9b7-6a6e-4b61-8c6e-34b54f14e8e2",
+      "skills": "[\"domestic worker\",\"cleaner\"]",
+      "home_lat": 28.51,
+      "home_lng": 77.22,
+      "current_lat": 28.51,
+      "current_lng": 77.22,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 87,
+      "trust_score_updated_at": "2026-06-19T15:42:06.121Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.121Z"
+    },
+    {
+      "id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "user_id": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "skills": "[\"electrician\",\"plumber\"]",
+      "home_lat": 28.68,
+      "home_lng": 77.3,
+      "current_lat": 28.68,
+      "current_lng": 77.3,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 64,
+      "trust_score_updated_at": "2026-06-19T15:42:06.135Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.135Z"
+    },
+    {
+      "id": "c97efc67-1061-4caf-8897-d7379a3c4045",
+      "user_id": "ed4c3017-f16d-4c71-a7be-21656f5888de",
+      "skills": "[\"welder\",\"fitter\"]",
+      "home_lat": 28.55,
+      "home_lng": 77.25,
+      "current_lat": 28.55,
+      "current_lng": 77.25,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 91,
+      "trust_score_updated_at": "2026-06-19T15:42:06.150Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.150Z"
+    },
+    {
+      "id": "e387834c-d437-4f30-af16-6aa85e7cb01d",
+      "user_id": "c1405644-0790-4d33-94b0-c0faaf93284a",
+      "skills": "[\"mason\",\"helper\"]",
+      "home_lat": 28.62,
+      "home_lng": 77.35,
+      "current_lat": 28.62,
+      "current_lng": 77.35,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 72,
+      "trust_score_updated_at": "2026-06-19T15:42:06.165Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.165Z"
+    },
+    {
+      "id": "9a8b9dc4-83c2-43be-8fa4-1bcf9cb39f6b",
+      "user_id": "2dba6d62-3218-4351-9d89-39fb2eb72f10",
+      "skills": "[\"cook\",\"helper\"]",
+      "home_lat": 28.47,
+      "home_lng": 77.05,
+      "current_lat": 28.47,
+      "current_lng": 77.05,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 86,
+      "trust_score_updated_at": "2026-06-19T15:42:06.179Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.179Z"
+    },
+    {
+      "id": "c0bd603e-0fc1-4054-b3df-2d11f35fc512",
+      "user_id": "4a167e9d-a24d-4bf6-ba8a-aa02ecafcd80",
+      "skills": "[\"painter\",\"decorator\"]",
+      "home_lat": 28.59,
+      "home_lng": 77.01,
+      "current_lat": 28.59,
+      "current_lng": 77.01,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 80,
+      "trust_score_updated_at": "2026-06-19T15:42:06.194Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.194Z"
+    },
+    {
+      "id": "0228623f-bc72-466c-9b94-63b4b9bcacae",
+      "user_id": "a94219fd-18a4-40a0-a945-854cbb8dd5ae",
+      "skills": "[\"plumber\",\"mason\"]",
+      "home_lat": 28.64,
+      "home_lng": 77.12,
+      "current_lat": 28.64,
+      "current_lng": 77.12,
+      "availability_status": "AVAILABLE",
+      "verification_status": "VERIFIED",
+      "trust_score": 76,
+      "trust_score_updated_at": "2026-06-19T15:42:06.210Z",
+      "trust_score_version": 1,
+      "created_at": "2026-05-21T15:42:06.210Z"
+    }
+  ],
+  "contractor_profiles": [
+    {
+      "id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "user_id": "50d040a9-a457-42d0-b9d6-a26253a9608f",
+      "company_name": "Suresh Construction Ltd",
+      "verified_business": 1,
+      "created_at": "2026-05-21T15:42:05.982Z"
+    },
+    {
+      "id": "aa6ee3fd-e55f-4233-a5ca-81f7c6a4e920",
+      "user_id": "cafd5ff5-f408-449b-b210-407e5449562d",
+      "company_name": "Patel Painting Services",
+      "verified_business": 1,
+      "created_at": "2026-05-21T15:42:05.986Z"
+    },
+    {
+      "id": "899e9583-694f-4c84-a466-a62424c4a0d7",
+      "user_id": "59e1d5a4-0c20-4bcb-a819-0b8ffa60a0f3",
+      "company_name": "NCR Electrical Contractors",
+      "verified_business": 1,
+      "created_at": "2026-05-21T15:42:05.990Z"
+    },
+    {
+      "id": "70b2d2d5-d448-4612-8916-55ec234747a8",
+      "user_id": "325996c4-b536-4225-801a-383b0eb0575d",
+      "company_name": "Rao Plumbing & Sanitation",
+      "verified_business": 0,
+      "created_at": "2026-05-21T15:42:05.993Z"
+    },
+    {
+      "id": "70fcdb43-06ce-4868-82df-2c66642da4cc",
+      "user_id": "08af17ee-5e1f-4db1-a237-105ae90aa00f",
+      "company_name": "Deshmukh Home Services",
+      "verified_business": 1,
+      "created_at": "2026-05-21T15:42:05.996Z"
+    },
+    {
+      "id": "ccec457c-5bbe-4bdd-8b54-ce92ebcaee69",
+      "user_id": "70942b39-0e53-4495-943f-be2b3becc556",
+      "company_name": "Mehta Logistics",
+      "verified_business": 0,
+      "created_at": "2026-05-21T15:42:06.000Z"
+    }
+  ],
+  "verification_records": [
+    {
+      "id": "365dcf22-6b95-4455-8c9c-d665045954e2",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.006Z"
+    },
+    {
+      "id": "90104cd6-5d79-48f1-b045-24c528ff4f07",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.007Z"
+    },
+    {
+      "id": "bac80b79-abf9-4850-b968-3b61dfd1c5c6",
+      "worker_id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.020Z"
+    },
+    {
+      "id": "d92a6fa3-124d-4786-844b-12169ccb77c1",
+      "worker_id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.021Z"
+    },
+    {
+      "id": "8041dedb-fe5f-47bf-a7bc-9c39389cd2da",
+      "worker_id": "637e9afe-1fe7-494c-8819-457239f76a47",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.032Z"
+    },
+    {
+      "id": "73d10928-7bc6-46c2-a0f8-1f7345376f20",
+      "worker_id": "637e9afe-1fe7-494c-8819-457239f76a47",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.035Z"
+    },
+    {
+      "id": "6bf352aa-4551-4776-9e73-ddfebc34ea90",
+      "worker_id": "debd438b-0e49-4d9c-abb4-0cc6d1294eac",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.047Z"
+    },
+    {
+      "id": "12348056-c554-4f74-a785-0ec62e4d909f",
+      "worker_id": "debd438b-0e49-4d9c-abb4-0cc6d1294eac",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.049Z"
+    },
+    {
+      "id": "a0bd2e64-111f-4ac2-8d7d-67bfc87caf6c",
+      "worker_id": "e4b32157-a9a8-4cf2-9ee0-9e40096e07f0",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.061Z"
+    },
+    {
+      "id": "89f8d71a-c1d8-40b1-95a4-04c2c1dac8cf",
+      "worker_id": "e4b32157-a9a8-4cf2-9ee0-9e40096e07f0",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.063Z"
+    },
+    {
+      "id": "58b908fa-7b4d-42cd-b38e-0471affdd8fd",
+      "worker_id": "3062ef61-8c78-44bc-a614-a69d28267292",
+      "type": "ID_DOCUMENT",
+      "status": "PENDING",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_pending.jpg",
+      "verified_by_agent_run_id": null,
+      "created_at": "2026-06-18T15:42:06.077Z"
+    },
+    {
+      "id": "4d0ffe10-17d1-4daa-b9c5-112acd811b66",
+      "worker_id": "ab8839af-eee0-43c9-b6c0-a4373d265d10",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.090Z"
+    },
+    {
+      "id": "0812b605-ae56-435c-9a59-95cb01917fb9",
+      "worker_id": "ab8839af-eee0-43c9-b6c0-a4373d265d10",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.092Z"
+    },
+    {
+      "id": "4f2d04c1-0a17-40c1-bc13-ded33bb3f3fd",
+      "worker_id": "964e6cc2-9898-4791-85b0-81e74331edda",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.107Z"
+    },
+    {
+      "id": "e6bc5257-f85e-40f4-a652-a8f21c6ca1be",
+      "worker_id": "964e6cc2-9898-4791-85b0-81e74331edda",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.109Z"
+    },
+    {
+      "id": "f3d59cbe-4e82-4cde-a02c-bbd7214abc2d",
+      "worker_id": "497b9010-7453-4a97-ac54-0feb29869b20",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.123Z"
+    },
+    {
+      "id": "412ca06f-ddd3-4db0-8037-285cd80b72d2",
+      "worker_id": "497b9010-7453-4a97-ac54-0feb29869b20",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.125Z"
+    },
+    {
+      "id": "315ba893-f633-4986-80f5-8e4652e145cf",
+      "worker_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.137Z"
+    },
+    {
+      "id": "8a0bcde9-c933-4fd6-adbe-9ae154b56b2c",
+      "worker_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.139Z"
+    },
+    {
+      "id": "e30e4b20-f9b1-462b-bae3-3d9f2fd7e835",
+      "worker_id": "c97efc67-1061-4caf-8897-d7379a3c4045",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.152Z"
+    },
+    {
+      "id": "ff07505b-a37a-423c-8a60-f87514d497fc",
+      "worker_id": "c97efc67-1061-4caf-8897-d7379a3c4045",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.154Z"
+    },
+    {
+      "id": "087ca1ba-1d0f-4129-b2da-defbc2c0d69a",
+      "worker_id": "e387834c-d437-4f30-af16-6aa85e7cb01d",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.167Z"
+    },
+    {
+      "id": "1cb038e2-0a12-4668-a9e4-4086945d92a8",
+      "worker_id": "e387834c-d437-4f30-af16-6aa85e7cb01d",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.169Z"
+    },
+    {
+      "id": "e36671ca-90bf-4c2f-bf44-beb0a3feed72",
+      "worker_id": "9a8b9dc4-83c2-43be-8fa4-1bcf9cb39f6b",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.181Z"
+    },
+    {
+      "id": "8697da7b-901a-444f-ae7c-a20be81fc00d",
+      "worker_id": "9a8b9dc4-83c2-43be-8fa4-1bcf9cb39f6b",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.184Z"
+    },
+    {
+      "id": "aa8f5d45-f92c-4ef6-a0db-66c9f8b956e0",
+      "worker_id": "c0bd603e-0fc1-4054-b3df-2d11f35fc512",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.197Z"
+    },
+    {
+      "id": "341a2df9-e730-4eb4-87e0-29d6c6519199",
+      "worker_id": "c0bd603e-0fc1-4054-b3df-2d11f35fc512",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.200Z"
+    },
+    {
+      "id": "fe48cc45-411e-469d-802b-c888c4be8519",
+      "worker_id": "0228623f-bc72-466c-9b94-63b4b9bcacae",
+      "type": "ID_DOCUMENT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/aadhaar_verify.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.212Z"
+    },
+    {
+      "id": "1414fa81-a5e1-458b-aa75-d57890cf3be7",
+      "worker_id": "0228623f-bc72-466c-9b94-63b4b9bcacae",
+      "type": "SKILL_CERT",
+      "status": "VERIFIED",
+      "evidence_url": "https://verifications.labourlink.in/docs/skill_cert.pdf",
+      "verified_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-23T15:42:06.216Z"
+    }
+  ],
+  "job_requirements": [
+    {
+      "id": "cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e",
+      "contractor_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "raw_text": "Need a skilled mason for plastering a building in central Delhi, near Connaught Place.",
+      "extracted_skills": "[\"mason\",\"plasterer\"]",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "radius_km": 10,
+      "headcount": 1,
+      "min_trust_score": 80,
+      "pay_min": 500,
+      "pay_max": 800,
+      "urgency_window_start": "2026-05-31T15:42:06.236Z",
+      "urgency_window_end": "2026-06-02T15:42:06.236Z",
+      "extracted_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-05-31T15:42:06.236Z"
+    },
+    {
+      "id": "393a9187-2e14-46a6-9357-0047dfc8eb68",
+      "contractor_id": "899e9583-694f-4c84-a466-a62424c4a0d7",
+      "raw_text": "Need an electrician for wiring installation in Noida Sector 62.",
+      "extracted_skills": "[\"electrician\"]",
+      "lat": 28.6282,
+      "lng": 77.3769,
+      "radius_km": 15,
+      "headcount": 1,
+      "min_trust_score": 85,
+      "pay_min": 600,
+      "pay_max": 900,
+      "urgency_window_start": "2026-06-05T15:42:06.252Z",
+      "urgency_window_end": "2026-06-07T15:42:06.252Z",
+      "extracted_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-06-05T15:42:06.252Z"
+    },
+    {
+      "id": "e35c6f7c-eadc-4a5f-a198-5df8729f6165",
+      "contractor_id": "aa6ee3fd-e55f-4233-a5ca-81f7c6a4e920",
+      "raw_text": "Looking for home cleaning and domestic help in Dwarka.",
+      "extracted_skills": "[\"domestic worker\"]",
+      "lat": 28.5921,
+      "lng": 77.046,
+      "radius_km": 8,
+      "headcount": 1,
+      "min_trust_score": 90,
+      "pay_min": 400,
+      "pay_max": 600,
+      "urgency_window_start": "2026-06-10T15:42:06.261Z",
+      "urgency_window_end": "2026-06-12T15:42:06.261Z",
+      "extracted_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-06-10T15:42:06.261Z"
+    },
+    {
+      "id": "9b3a6bde-8aba-49fb-83b8-199920821a26",
+      "contractor_id": "70b2d2d5-d448-4612-8916-55ec234747a8",
+      "raw_text": "Urgent plumbing repair needed for leaky pipes in Gurugram Phase 3.",
+      "extracted_skills": "[\"plumber\"]",
+      "lat": 28.4595,
+      "lng": 77.0266,
+      "radius_km": 12,
+      "headcount": 1,
+      "min_trust_score": 70,
+      "pay_min": 450,
+      "pay_max": 700,
+      "urgency_window_start": "2026-06-12T15:42:06.272Z",
+      "urgency_window_end": "2026-06-14T15:42:06.272Z",
+      "extracted_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-06-12T15:42:06.272Z"
+    },
+    {
+      "id": "d5436453-bbb0-440d-90fa-59d5f60b478b",
+      "contractor_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "raw_text": "Need a plumber in Connaught Place area to fix hotel kitchen pipes.",
+      "extracted_skills": "[\"plumber\"]",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "radius_km": 5,
+      "headcount": 1,
+      "min_trust_score": 60,
+      "pay_min": 800,
+      "pay_max": 1200,
+      "urgency_window_start": "2026-06-10T15:42:06.283Z",
+      "urgency_window_end": "2026-06-12T15:42:06.283Z",
+      "extracted_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-06-10T15:42:06.283Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "f492818f-4793-4944-b6fd-38dbc2a55164",
+      "job_requirement_id": "cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "contractor_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "status": "COMPLETED",
+      "scheduled_start": "2026-06-02T15:42:06.238Z",
+      "scheduled_end": "2026-06-05T15:42:06.238Z",
+      "actual_completion": "2026-06-05T15:42:06.238Z",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "created_at": "2026-05-31T15:42:06.238Z"
+    },
+    {
+      "id": "10057e32-8294-4bb8-bc0b-b55ad1f521c7",
+      "job_requirement_id": "393a9187-2e14-46a6-9357-0047dfc8eb68",
+      "worker_id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "contractor_id": "899e9583-694f-4c84-a466-a62424c4a0d7",
+      "status": "COMPLETED",
+      "scheduled_start": "2026-06-08T15:42:06.254Z",
+      "scheduled_end": "2026-06-10T15:42:06.254Z",
+      "actual_completion": "2026-06-10T15:42:06.254Z",
+      "lat": 28.6282,
+      "lng": 77.3769,
+      "created_at": "2026-06-05T15:42:06.254Z"
+    },
+    {
+      "id": "154a298d-54e6-43d7-bf41-e0063d9b0791",
+      "job_requirement_id": "e35c6f7c-eadc-4a5f-a198-5df8729f6165",
+      "worker_id": "637e9afe-1fe7-494c-8819-457239f76a47",
+      "contractor_id": "aa6ee3fd-e55f-4233-a5ca-81f7c6a4e920",
+      "status": "COMPLETED",
+      "scheduled_start": "2026-06-12T15:42:06.264Z",
+      "scheduled_end": "2026-06-14T15:42:06.264Z",
+      "actual_completion": "2026-06-14T15:42:06.264Z",
+      "lat": 28.5921,
+      "lng": 77.046,
+      "created_at": "2026-06-10T15:42:06.264Z"
+    },
+    {
+      "id": "3873e9ab-be27-4a68-b21a-b1f15f494109",
+      "job_requirement_id": "9b3a6bde-8aba-49fb-83b8-199920821a26",
+      "worker_id": "debd438b-0e49-4d9c-abb4-0cc6d1294eac",
+      "contractor_id": "70b2d2d5-d448-4612-8916-55ec234747a8",
+      "status": "COMPLETED",
+      "scheduled_start": "2026-06-14T15:42:06.275Z",
+      "scheduled_end": "2026-06-15T15:42:06.275Z",
+      "actual_completion": "2026-06-15T15:42:06.275Z",
+      "lat": 28.4595,
+      "lng": 77.0266,
+      "created_at": "2026-06-12T15:42:06.275Z"
+    },
+    {
+      "id": "c6421469-c17b-4342-940f-0209b69da186",
+      "job_requirement_id": "d5436453-bbb0-440d-90fa-59d5f60b478b",
+      "worker_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "contractor_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "status": "DISPUTED",
+      "scheduled_start": "2026-06-12T15:42:06.286Z",
+      "scheduled_end": "2026-06-13T15:42:06.286Z",
+      "actual_completion": null,
+      "lat": 28.6139,
+      "lng": 77.209,
+      "created_at": "2026-06-10T15:42:06.286Z"
+    }
+  ],
+  "payments": [
+    {
+      "id": "869a9ab1-a098-477e-9acc-e07df2d04974",
+      "job_id": "f492818f-4793-4944-b6fd-38dbc2a55164",
+      "amount": 750,
+      "status": "CONFIRMED",
+      "confirmation_method": "UPI_VERIFIED",
+      "confirmed_at": "2026-06-05T15:42:06.240Z",
+      "created_at": "2026-06-05T15:42:06.240Z"
+    },
+    {
+      "id": "21d72675-3849-4f7c-9433-99a7e476f4e8",
+      "job_id": "10057e32-8294-4bb8-bc0b-b55ad1f521c7",
+      "amount": 850,
+      "status": "CONFIRMED",
+      "confirmation_method": "UPI_VERIFIED",
+      "confirmed_at": "2026-06-10T15:42:06.256Z",
+      "created_at": "2026-06-10T15:42:06.256Z"
+    },
+    {
+      "id": "c4be9077-ae77-4a12-a280-f25b19cd5161",
+      "job_id": "154a298d-54e6-43d7-bf41-e0063d9b0791",
+      "amount": 500,
+      "status": "CONFIRMED",
+      "confirmation_method": "CASH_ATTESTED",
+      "confirmed_at": "2026-06-14T15:42:06.267Z",
+      "created_at": "2026-06-14T15:42:06.267Z"
+    },
+    {
+      "id": "c6ebf2fb-3473-42ea-8cc1-5083cced420a",
+      "job_id": "3873e9ab-be27-4a68-b21a-b1f15f494109",
+      "amount": 600,
+      "status": "CONFIRMED",
+      "confirmation_method": "UPI_VERIFIED",
+      "confirmed_at": "2026-06-15T15:42:06.277Z",
+      "created_at": "2026-06-15T15:42:06.277Z"
+    },
+    {
+      "id": "a0ee7e00-ced2-49a7-a595-ccf28dfd32ba",
+      "job_id": "c6421469-c17b-4342-940f-0209b69da186",
+      "amount": 1000,
+      "status": "DISPUTED",
+      "confirmation_method": "BANK_VERIFIED",
+      "confirmed_at": null,
+      "created_at": "2026-06-13T15:42:06.288Z"
+    }
+  ],
+  "ratings": [
+    {
+      "id": "88a5da90-1fb1-44f5-bae9-fa14fd387ebf",
+      "job_id": "f492818f-4793-4944-b6fd-38dbc2a55164",
+      "rater_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "ratee_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "score": 5,
+      "comment": "Ramesh was on time, skilled, and did excellent plastering.",
+      "created_at": "2026-06-05T15:42:06.242Z"
+    },
+    {
+      "id": "6131e26b-3c62-48f7-ac5d-92da8e0d2c58",
+      "job_id": "f492818f-4793-4944-b6fd-38dbc2a55164",
+      "rater_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "ratee_id": "50d040a9-a457-42d0-b9d6-a26253a9608f",
+      "score": 5,
+      "comment": "Great contractor, paid promptly through UPI.",
+      "created_at": "2026-06-05T15:42:06.250Z"
+    },
+    {
+      "id": "bb8df2aa-1f1b-479e-a126-1c861baa2f10",
+      "job_id": "10057e32-8294-4bb8-bc0b-b55ad1f521c7",
+      "rater_id": "899e9583-694f-4c84-a466-a62424c4a0d7",
+      "ratee_id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "score": 4.5,
+      "comment": "Very professional wiring work. Clean and safe.",
+      "created_at": "2026-06-10T15:42:06.259Z"
+    },
+    {
+      "id": "bf53fd62-c896-470b-a74b-3b358abb2dc4",
+      "job_id": "154a298d-54e6-43d7-bf41-e0063d9b0791",
+      "rater_id": "aa6ee3fd-e55f-4233-a5ca-81f7c6a4e920",
+      "ratee_id": "637e9afe-1fe7-494c-8819-457239f76a47",
+      "score": 5,
+      "comment": "Highly reliable, punctual, and cleans very thoroughly.",
+      "created_at": "2026-06-14T15:42:06.270Z"
+    },
+    {
+      "id": "0948d7ae-e292-4925-af94-53c63c488178",
+      "job_id": "3873e9ab-be27-4a68-b21a-b1f15f494109",
+      "rater_id": "70b2d2d5-d448-4612-8916-55ec234747a8",
+      "ratee_id": "debd438b-0e49-4d9c-abb4-0cc6d1294eac",
+      "score": 4,
+      "comment": "Fixed the leaks quickly, good plumber.",
+      "created_at": "2026-06-15T15:42:06.281Z"
+    },
+    {
+      "id": "c1cd2e52-a633-4bde-913c-586f86068058",
+      "job_id": "c6421469-c17b-4342-940f-0209b69da186",
+      "rater_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "ratee_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "score": 1,
+      "comment": "Deepak arrived 4 hours late, did not complete the job, and left the water valve open causing leakage!",
+      "created_at": "2026-06-13T15:42:06.290Z"
+    }
+  ],
+  "endorsements": [
+    {
+      "id": "fff160f0-9537-4535-891b-42c5d82e1f8f",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "endorser_id": "fabee42e-0703-4e33-92a2-df4070967a37",
+      "skill": "mason",
+      "comment": "Ramesh Prasad is my go-to mason. He worked with me for 6 months on a residential project.",
+      "created_at": "2026-06-06T15:42:06.294Z"
+    },
+    {
+      "id": "41a17941-81d2-4d73-b62b-f00582649329",
+      "worker_id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "endorser_id": "899e9583-694f-4c84-a466-a62424c4a0d7",
+      "skill": "electrician",
+      "comment": "Amit is a highly certified wireman. Extremely safe and reliable.",
+      "created_at": "2026-06-12T15:42:06.297Z"
+    }
+  ],
+  "trust_score_history": [
+    {
+      "id": "97919a15-d55e-4d78-b09b-e426c9fb8f9b",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "score": 92,
+      "version": 1,
+      "computed_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "contributing_factors": "{\"jobs_completed\":1,\"on_time_rate\":1,\"payment_integrity_factor\":1,\"average_contractor_rating\":5,\"endorsement_factor\":1,\"verification_factor\":2,\"fraud_penalty\":0,\"reliability_consistency_factor\":0,\"dispute_outcome_factor\":0}",
+      "created_at": "2026-06-05T15:42:06.301Z"
+    },
+    {
+      "id": "f34f124d-eaf6-45ba-ad97-30588d3dd7c1",
+      "worker_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "score": 64,
+      "version": 1,
+      "computed_by_agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "contributing_factors": "{\"jobs_completed\":0,\"on_time_rate\":0,\"payment_integrity_factor\":0,\"average_contractor_rating\":1,\"endorsement_factor\":0,\"verification_factor\":1,\"fraud_penalty\":20,\"reliability_consistency_factor\":0,\"dispute_outcome_factor\":10}",
+      "created_at": "2026-06-13T15:42:06.303Z"
+    },
+    {
+      "id": "924c3e7d-e20e-467e-b494-ffaa319cf74a",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "score": 81,
+      "version": 2,
+      "computed_by_agent_run_id": "c6295f86-d964-43d5-8791-3596ee96948c",
+      "contributing_factors": "{\"jobs_completed\":2,\"on_time_rate\":15,\"payment_integrity_factor\":15,\"average_contractor_rating\":30,\"endorsement_factor\":2,\"verification_factor\":17,\"reliability_consistency_factor\":0,\"dispute_outcome_factor\":0,\"fraud_penalty\":0}",
+      "created_at": "2026-06-20T15:42:26.516Z"
+    },
+    {
+      "id": "6e1ec41b-241f-4fe6-8f0d-1346a5979699",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "score": 81,
+      "version": 3,
+      "computed_by_agent_run_id": "6dc64c1d-2c94-40f7-8428-3fd116b51651",
+      "contributing_factors": "{\"jobs_completed\":2,\"on_time_rate\":15,\"payment_integrity_factor\":15,\"average_contractor_rating\":30,\"endorsement_factor\":2,\"verification_factor\":17,\"reliability_consistency_factor\":0,\"dispute_outcome_factor\":0,\"fraud_penalty\":0}",
+      "created_at": "2026-06-20T16:05:51.967Z"
+    }
+  ],
+  "fraud_flags": [
+    {
+      "id": "d73cce81-c0ad-4738-965d-8bf82165956c",
+      "subject_type": "WORKER",
+      "subject_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "flag_type": "LOCATION_CONFLICT",
+      "severity": "HIGH",
+      "evidence": "{\"reason\":\"Attempted to check into two active jobs simultaneously in Gurugram and Noida (45km apart)\",\"conflicting_job_ids\":[\"c6421469-c17b-4342-940f-0209b69da186\",\"163bc60b-f928-428d-94a5-e643deb34610\"]}",
+      "status": "OPEN",
+      "detected_by_agent_run_id": "13e2ec40-5311-400f-98ae-a28915a6f142",
+      "created_at": "2026-06-16T15:42:06.308Z",
+      "resolved_at": null
+    },
+    {
+      "id": "7150a1e6-6528-480b-b803-591edb0e28c6",
+      "subject_type": "WORKER",
+      "subject_id": "e387834c-d437-4f30-af16-6aa85e7cb01d",
+      "flag_type": "RATING_COLLUSION",
+      "severity": "MEDIUM",
+      "evidence": "{\"reason\":\"Reciprocal 5-star ratings exchanged in 3 jobs lasting less than 2 hours each\",\"contractor_id\":\"ccec457c-5bbe-4bdd-8b54-ce92ebcaee69\",\"ratings_count\":3}",
+      "status": "OPEN",
+      "detected_by_agent_run_id": "13e2ec40-5311-400f-98ae-a28915a6f142",
+      "created_at": "2026-06-17T15:42:06.310Z",
+      "resolved_at": null
+    }
+  ],
+  "agent_run_logs": [
+    {
+      "id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "agent_name": "VERIFICATION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"status\":\"SUCCESS\"}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 5,
+      "created_at": "2026-05-21T15:42:05.819Z"
+    },
+    {
+      "id": "13e2ec40-5311-400f-98ae-a28915a6f142",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"job_id_1\":\"abc\",\"job_id_2\":\"def\"}",
+      "output_payload": "{\"alert\":\"LOCATION_CONFLICT\"}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 12,
+      "created_at": "2026-06-16T15:42:06.305Z"
+    },
+    {
+      "id": "35cf3a87-e61f-4a5b-8a63-9071d4f39ea8",
+      "agent_name": "VOICE_INTERACTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"commandId\":\"cc800a88-36ac-467f-bc45-cd2bac1747d3\",\"transcript\":\"Mujhe kaam chahiye jaldi\"}",
+      "output_payload": "{\"intent\":\"JOB_SEARCH\",\"slots\":{},\"confidence\":{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0,\"location\":0}},\"status\":\"NEEDS_CLARIFICATION\",\"routedTo\":\"NONE\"}",
+      "evidence_record_ids": "[\"cc800a88-36ac-467f-bc45-cd2bac1747d3\"]",
+      "status": "SUCCESS",
+      "latency_ms": 9,
+      "created_at": "2026-06-20T15:42:26.465Z"
+    },
+    {
+      "id": "23e7b71d-b848-42c9-bc1f-88035fe5ddeb",
+      "agent_name": "VOICE_INTERACTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"commandId\":\"64965eee-0e3a-4eae-8747-c035ac7a26e5\",\"transcript\":\"Mujhe Connaught Place mein plastering ya mason ka kaam chahiye\"}",
+      "output_payload": "{\"intent\":\"JOB_SEARCH\",\"slots\":{\"skill\":\"mason\",\"location\":\"connaught place\"},\"confidence\":{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0.95,\"location\":0.95}},\"status\":\"ROUTED_TO_AGENT\",\"routedTo\":\"WORKER_MATCHING\"}",
+      "evidence_record_ids": "[\"64965eee-0e3a-4eae-8747-c035ac7a26e5\"]",
+      "status": "SUCCESS",
+      "latency_ms": 5,
+      "created_at": "2026-06-20T15:42:26.475Z"
+    },
+    {
+      "id": "d2d977b6-574e-4985-96d1-88579668e5fc",
+      "agent_name": "WORKER_MATCHING",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"jobRequirementId\":\"cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e\",\"candidatesFound\":6}",
+      "output_payload": "{\"matchCandidateSetId\":\"a8b31192-ff8a-499e-ada3-754a35fd31e3\",\"candidatesCount\":1}",
+      "evidence_record_ids": "[\"cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e\",\"a8b31192-ff8a-499e-ada3-754a35fd31e3\"]",
+      "status": "SUCCESS",
+      "latency_ms": 10,
+      "created_at": "2026-06-20T15:42:26.488Z"
+    },
+    {
+      "id": "c6295f86-d964-43d5-8791-3596ee96948c",
+      "agent_name": "TRUST",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"workerId\":\"57ab2860-4854-4c70-86df-89c7ad2cfabe\"}",
+      "output_payload": "{\"score\":81,\"breakdown\":{\"jobs_completed\":2,\"on_time_rate\":15,\"payment_integrity_factor\":15,\"average_contractor_rating\":30,\"endorsement_factor\":2,\"verification_factor\":17,\"reliability_consistency_factor\":0,\"dispute_outcome_factor\":0,\"fraud_penalty\":0}}",
+      "evidence_record_ids": "[\"57ab2860-4854-4c70-86df-89c7ad2cfabe\"]",
+      "status": "SUCCESS",
+      "latency_ms": 25,
+      "created_at": "2026-06-20T15:42:26.518Z"
+    },
+    {
+      "id": "5a536115-f78d-445c-8d0c-367ee94534cd",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"flagsDetected\":0}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 7,
+      "created_at": "2026-06-20T15:42:26.532Z"
+    },
+    {
+      "id": "79844641-2bd3-4990-b219-d451e8ce6133",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"flagsDetected\":0}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 28,
+      "created_at": "2026-06-20T15:44:36.160Z"
+    },
+    {
+      "id": "13617881-970c-4e66-83e4-85b30c463067",
+      "agent_name": "VOICE_INTERACTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"commandId\":\"2837c8e6-0f79-4fed-97d5-a0008b790d4a\",\"transcript\":\"Mujhe kaam chahiye jaldi\"}",
+      "output_payload": "{\"intent\":\"JOB_SEARCH\",\"slots\":{},\"confidence\":{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0,\"location\":0}},\"status\":\"NEEDS_CLARIFICATION\",\"routedTo\":\"NONE\"}",
+      "evidence_record_ids": "[\"2837c8e6-0f79-4fed-97d5-a0008b790d4a\"]",
+      "status": "SUCCESS",
+      "latency_ms": 8,
+      "created_at": "2026-06-20T16:05:51.926Z"
+    },
+    {
+      "id": "8294037d-d8ad-424b-8c59-9b3bd0eac655",
+      "agent_name": "VOICE_INTERACTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"commandId\":\"4eb0f767-fa0c-46ec-8d3f-010bef01fa8c\",\"transcript\":\"Mujhe Connaught Place mein plastering ya mason ka kaam chahiye\"}",
+      "output_payload": "{\"intent\":\"JOB_SEARCH\",\"slots\":{\"skill\":\"mason\",\"location\":\"connaught place\"},\"confidence\":{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0.95,\"location\":0.95}},\"status\":\"ROUTED_TO_AGENT\",\"routedTo\":\"WORKER_MATCHING\"}",
+      "evidence_record_ids": "[\"4eb0f767-fa0c-46ec-8d3f-010bef01fa8c\"]",
+      "status": "SUCCESS",
+      "latency_ms": 4,
+      "created_at": "2026-06-20T16:05:51.935Z"
+    },
+    {
+      "id": "d08d1724-d19f-4ef2-a4be-fe5f70d8c667",
+      "agent_name": "WORKER_MATCHING",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"jobRequirementId\":\"cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e\",\"candidatesFound\":6}",
+      "output_payload": "{\"matchCandidateSetId\":\"d254514e-d98c-4d69-ba89-72795950ca81\",\"candidatesCount\":1}",
+      "evidence_record_ids": "[\"cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e\",\"d254514e-d98c-4d69-ba89-72795950ca81\"]",
+      "status": "SUCCESS",
+      "latency_ms": 10,
+      "created_at": "2026-06-20T16:05:51.948Z"
+    },
+    {
+      "id": "6dc64c1d-2c94-40f7-8428-3fd116b51651",
+      "agent_name": "TRUST",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"workerId\":\"57ab2860-4854-4c70-86df-89c7ad2cfabe\"}",
+      "output_payload": "{\"score\":81,\"breakdown\":{\"jobs_completed\":2,\"on_time_rate\":15,\"payment_integrity_factor\":15,\"average_contractor_rating\":30,\"endorsement_factor\":2,\"verification_factor\":17,\"reliability_consistency_factor\":0,\"dispute_outcome_factor\":0,\"fraud_penalty\":0}}",
+      "evidence_record_ids": "[\"57ab2860-4854-4c70-86df-89c7ad2cfabe\"]",
+      "status": "SUCCESS",
+      "latency_ms": 18,
+      "created_at": "2026-06-20T16:05:51.969Z"
+    },
+    {
+      "id": "b60da9fc-af9d-448b-9d0f-c197be781dcc",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"flagsDetected\":0}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 4,
+      "created_at": "2026-06-20T16:05:51.978Z"
+    },
+    {
+      "id": "d63054b1-583d-4665-bafb-ddc79ef43e6e",
+      "agent_name": "VOICE_INTERACTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"commandId\":\"ef0194da-28ed-411f-92a8-446ceb605f21\",\"transcript\":\"Mujhe kaam chahiye jaldi\"}",
+      "output_payload": "{\"intent\":\"JOB_SEARCH\",\"slots\":{},\"confidence\":{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0,\"location\":0}},\"status\":\"NEEDS_CLARIFICATION\",\"routedTo\":\"NONE\"}",
+      "evidence_record_ids": "[\"ef0194da-28ed-411f-92a8-446ceb605f21\"]",
+      "status": "SUCCESS",
+      "latency_ms": 9,
+      "created_at": "2026-06-20T16:26:11.440Z"
+    },
+    {
+      "id": "1f11d734-adbf-4091-a82d-a8e64b02919e",
+      "agent_name": "VOICE_INTERACTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"commandId\":\"8b0f8d8f-9f2d-436d-8076-29653bc779bd\",\"transcript\":\"Mujhe Connaught Place mein plastering ya mason ka kaam chahiye\"}",
+      "output_payload": "{\"intent\":\"JOB_SEARCH\",\"slots\":{\"skill\":\"mason\",\"location\":\"connaught place\"},\"confidence\":{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0.95,\"location\":0.95}},\"status\":\"ROUTED_TO_AGENT\",\"routedTo\":\"WORKER_MATCHING\"}",
+      "evidence_record_ids": "[\"8b0f8d8f-9f2d-436d-8076-29653bc779bd\"]",
+      "status": "SUCCESS",
+      "latency_ms": 5,
+      "created_at": "2026-06-20T16:26:11.451Z"
+    },
+    {
+      "id": "455841d3-4991-48ca-933e-efdb344d5894",
+      "agent_name": "WORKER_MATCHING",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"requestReferenceId\":\"cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e\",\"candidatesFound\":6}",
+      "output_payload": "{\"matchCandidateSetId\":\"ce21f143-cd32-4f84-85d6-b9ef512324a0\",\"candidatesCount\":1}",
+      "evidence_record_ids": "[\"cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e\",\"ce21f143-cd32-4f84-85d6-b9ef512324a0\"]",
+      "status": "SUCCESS",
+      "latency_ms": 10,
+      "created_at": "2026-06-20T16:26:11.464Z"
+    },
+    {
+      "id": "66d45647-332d-452c-996c-f2e3bec70a82",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"flagsDetected\":0}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 25,
+      "created_at": "2026-06-20T16:28:11.824Z"
+    },
+    {
+      "id": "393351eb-9ddf-44ed-b94a-63f91b0e6ce7",
+      "agent_name": "RECOMMENDATION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"workerId\":\"57ab2860-4854-4c70-86df-89c7ad2cfabe\"}",
+      "output_payload": "{\"error\":\"Worker profile not found for ID: 57ab2860-4854-4c70-86df-89c7ad2cfabe\"}",
+      "evidence_record_ids": "[]",
+      "status": "FAILURE",
+      "latency_ms": 44,
+      "created_at": "2026-06-20T16:28:12.069Z"
+    },
+    {
+      "id": "9e43612e-6b67-4a96-91e8-f559d6308634",
+      "agent_name": "RECOMMENDATION",
+      "agent_version": "1.0.0",
+      "input_payload": "{\"workerId\":\"57ab2860-4854-4c70-86df-89c7ad2cfabe\"}",
+      "output_payload": "{\"error\":\"Worker profile not found for ID: 57ab2860-4854-4c70-86df-89c7ad2cfabe\"}",
+      "evidence_record_ids": "[]",
+      "status": "FAILURE",
+      "latency_ms": 8,
+      "created_at": "2026-06-20T16:28:12.101Z"
+    },
+    {
+      "id": "9e6dfd9c-dd5f-45d8-8954-39dd2144aa11",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"flagsDetected\":0}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 21,
+      "created_at": "2026-06-20T16:28:56.543Z"
+    },
+    {
+      "id": "9e184e96-9f85-462c-b04c-b01081521908",
+      "agent_name": "FRAUD_DETECTION",
+      "agent_version": "1.0.0",
+      "input_payload": "{}",
+      "output_payload": "{\"flagsDetected\":0}",
+      "evidence_record_ids": "[]",
+      "status": "SUCCESS",
+      "latency_ms": 19,
+      "created_at": "2026-06-20T16:29:30.710Z"
+    }
+  ],
+  "match_candidate_sets": [
+    {
+      "id": "a8b31192-ff8a-499e-ada3-754a35fd31e3",
+      "job_requirement_id": "cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e",
+      "generated_by_agent_run_id": "d2d977b6-574e-4985-96d1-88579668e5fc",
+      "created_at": "2026-06-20T15:42:26.483Z"
+    },
+    {
+      "id": "d254514e-d98c-4d69-ba89-72795950ca81",
+      "job_requirement_id": "cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e",
+      "generated_by_agent_run_id": "d08d1724-d19f-4ef2-a4be-fe5f70d8c667",
+      "created_at": "2026-06-20T16:05:51.944Z"
+    },
+    {
+      "id": "ce21f143-cd32-4f84-85d6-b9ef512324a0",
+      "request_reference_type": "JOB_REQUIREMENT",
+      "request_reference_id": "cb3c8a6b-ff1a-4eaf-9c0d-df0354a0089e",
+      "generated_by_agent_run_id": "455841d3-4991-48ca-933e-efdb344d5894",
+      "created_at": "2026-06-20T16:26:11.460Z"
+    }
+  ],
+  "match_candidates": [
+    {
+      "id": "f57d4c60-2780-487d-a9ea-bff8f36a87ee",
+      "match_candidate_set_id": "a8b31192-ff8a-499e-ada3-754a35fd31e3",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "match_score": 97,
+      "matched_fields": "{\"skills\":true,\"location\":true,\"trust_score\":true,\"distance_km\":0}",
+      "created_at": "2026-06-20T15:42:26.485Z"
+    },
+    {
+      "id": "e5f2f6a6-b20c-43a7-ab90-55d53f3ca1d6",
+      "match_candidate_set_id": "d254514e-d98c-4d69-ba89-72795950ca81",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "match_score": 92,
+      "matched_fields": "{\"skills\":true,\"location\":true,\"trust_score\":true,\"distance_km\":0}",
+      "created_at": "2026-06-20T16:05:51.946Z"
+    },
+    {
+      "id": "eb858c53-41bc-421a-a83e-d0f4b5cccd11",
+      "match_candidate_set_id": "ce21f143-cd32-4f84-85d6-b9ef512324a0",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "match_score": 92,
+      "matched_fields": "{\"skills\":true,\"location\":true,\"trust_score\":true,\"distance_km\":0}",
+      "created_at": "2026-06-20T16:26:11.462Z"
+    }
+  ],
+  "recommendations": [],
+  "voice_commands": [
+    {
+      "id": "00a578b5-4946-47b9-aa51-0b2d70349aac",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "https://voice.labourlink.in/audio/voice1.wav",
+      "transcript": "Mujhe CP Connaught Place mein plastering ya mason ka kaam chahiye",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{\"skill\":\"mason\",\"location\":\"Connaught Place\"}",
+      "confidence": "{\"stt\":0.96,\"intent\":0.94,\"slots\":{\"skill\":0.95,\"location\":0.92}}",
+      "status": "ROUTED_TO_AGENT",
+      "routed_to_agent": "WORKER_MATCHING",
+      "agent_run_id": "5746a0f8-7288-44d5-ada6-27b5c3ef98fb",
+      "created_at": "2026-06-17T15:42:06.312Z"
+    },
+    {
+      "id": "e38171e6-6941-422b-adc6-f7afb0772743",
+      "user_id": "e387834c-d437-4f30-af16-6aa85e7cb01d",
+      "raw_audio_ref": "https://voice.labourlink.in/audio/voice2.wav",
+      "transcript": "Mera kaam badal do",
+      "detected_language": "hi",
+      "intent": "UPDATE_PROFILE",
+      "slots": "{}",
+      "confidence": "{\"stt\":0.88,\"intent\":0.82,\"slots\":{}}",
+      "status": "NEEDS_CLARIFICATION",
+      "routed_to_agent": "NONE",
+      "agent_run_id": null,
+      "created_at": "2026-06-18T15:42:06.317Z"
+    },
+    {
+      "id": "cc800a88-36ac-467f-bc45-cd2bac1747d3",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "http://voice.labourlink.in/audio/test1.wav",
+      "transcript": "Mujhe kaam chahiye jaldi",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{}",
+      "confidence": "{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0,\"location\":0}}",
+      "status": "NEEDS_CLARIFICATION",
+      "routed_to_agent": null,
+      "agent_run_id": "35cf3a87-e61f-4a5b-8a63-9071d4f39ea8",
+      "created_at": "2026-06-20T15:42:26.452Z"
+    },
+    {
+      "id": "64965eee-0e3a-4eae-8747-c035ac7a26e5",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "http://voice.labourlink.in/audio/test2.wav",
+      "transcript": "Mujhe Connaught Place mein plastering ya mason ka kaam chahiye",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{\"skill\":\"mason\",\"location\":\"connaught place\"}",
+      "confidence": "{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0.95,\"location\":0.95}}",
+      "status": "ROUTED_TO_AGENT",
+      "routed_to_agent": "WORKER_MATCHING",
+      "agent_run_id": "23e7b71d-b848-42c9-bc1f-88035fe5ddeb",
+      "created_at": "2026-06-20T15:42:26.469Z"
+    },
+    {
+      "id": "2837c8e6-0f79-4fed-97d5-a0008b790d4a",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "http://voice.labourlink.in/audio/test1.wav",
+      "transcript": "Mujhe kaam chahiye jaldi",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{}",
+      "confidence": "{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0,\"location\":0}}",
+      "status": "NEEDS_CLARIFICATION",
+      "routed_to_agent": null,
+      "agent_run_id": "13617881-970c-4e66-83e4-85b30c463067",
+      "created_at": "2026-06-20T16:05:51.915Z"
+    },
+    {
+      "id": "4eb0f767-fa0c-46ec-8d3f-010bef01fa8c",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "http://voice.labourlink.in/audio/test2.wav",
+      "transcript": "Mujhe Connaught Place mein plastering ya mason ka kaam chahiye",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{\"skill\":\"mason\",\"location\":\"connaught place\"}",
+      "confidence": "{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0.95,\"location\":0.95}}",
+      "status": "ROUTED_TO_AGENT",
+      "routed_to_agent": "WORKER_MATCHING",
+      "agent_run_id": "8294037d-d8ad-424b-8c59-9b3bd0eac655",
+      "created_at": "2026-06-20T16:05:51.929Z"
+    },
+    {
+      "id": "ef0194da-28ed-411f-92a8-446ceb605f21",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "http://voice.labourlink.in/audio/test1.wav",
+      "transcript": "Mujhe kaam chahiye jaldi",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{}",
+      "confidence": "{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0,\"location\":0}}",
+      "status": "NEEDS_CLARIFICATION",
+      "routed_to_agent": null,
+      "agent_run_id": "d63054b1-583d-4665-bafb-ddc79ef43e6e",
+      "created_at": "2026-06-20T16:26:11.427Z"
+    },
+    {
+      "id": "8b0f8d8f-9f2d-436d-8076-29653bc779bd",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "raw_audio_ref": "http://voice.labourlink.in/audio/test2.wav",
+      "transcript": "Mujhe Connaught Place mein plastering ya mason ka kaam chahiye",
+      "detected_language": "hi",
+      "intent": "JOB_SEARCH",
+      "slots": "{\"skill\":\"mason\",\"location\":\"connaught place\"}",
+      "confidence": "{\"stt\":0.9,\"intent\":0.9,\"slots\":{\"skill\":0.95,\"location\":0.95}}",
+      "status": "ROUTED_TO_AGENT",
+      "routed_to_agent": "WORKER_MATCHING",
+      "agent_run_id": "1f11d734-adbf-4091-a82d-a8e64b02919e",
+      "created_at": "2026-06-20T16:26:11.444Z"
+    }
+  ],
+  "voice_clarification_prompts": [
+    {
+      "id": "8efa908f-6f26-4ab1-ad7a-de0602a792a6",
+      "voice_command_id": "e38171e6-6941-422b-adc6-f7afb0772743",
+      "missing_field": "skill",
+      "prompt_text": "Aap apna kaunsa kaam ya hunar badalna chahte hain? (Jaise electrician, plumber, ya mason)",
+      "resolved": 0,
+      "resolved_voice_command_id": null,
+      "created_at": "2026-06-18T15:42:06.319Z"
+    },
+    {
+      "id": "a02b57e0-e246-4b8f-98fa-e424213bef61",
+      "voice_command_id": "cc800a88-36ac-467f-bc45-cd2bac1747d3",
+      "missing_field": "skill_and_location",
+      "prompt_text": "Aapko kis tareeh ka kaam chahiye aur kis jagah par? (Jaise: Delhi mein electrician ka kaam)",
+      "resolved": 0,
+      "resolved_voice_command_id": null,
+      "created_at": "2026-06-20T15:42:26.460Z"
+    },
+    {
+      "id": "feaaee9d-c026-4868-a351-958a9ccbd5a7",
+      "voice_command_id": "2837c8e6-0f79-4fed-97d5-a0008b790d4a",
+      "missing_field": "skill_and_location",
+      "prompt_text": "Aapko kis tareeh ka kaam chahiye aur kis jagah par? (Jaise: Delhi mein electrician ka kaam)",
+      "resolved": 0,
+      "resolved_voice_command_id": null,
+      "created_at": "2026-06-20T16:05:51.922Z"
+    },
+    {
+      "id": "34dfd272-3b09-422b-985c-aea20f2fa0a0",
+      "voice_command_id": "ef0194da-28ed-411f-92a8-446ceb605f21",
+      "missing_field": "skill_and_location",
+      "prompt_text": "Aapko kis tareeh ka kaam chahiye aur kis jagah par? (Jaise: Delhi mein electrician ka kaam)",
+      "resolved": 0,
+      "resolved_voice_command_id": null,
+      "created_at": "2026-06-20T16:26:11.435Z"
+    }
+  ],
+  "auth_sessions": [
+    {
+      "id": "d554d533-23c4-4a47-9f19-2b41d3f70157",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "device_fingerprint": "dev_chrome_win11_2893",
+      "ip_address": "103.45.12.89",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "login_method": "PASSWORD",
+      "created_at": "2026-06-19T15:42:06.322Z",
+      "expired_at": null
+    },
+    {
+      "id": "6c71dd27-8519-43bf-9e5b-e35e01e5154b",
+      "user_id": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "device_fingerprint": "dev_android_app_0911",
+      "ip_address": "45.12.98.11",
+      "lat": 26.8467,
+      "lng": 80.9462,
+      "login_method": "OTP",
+      "created_at": "2026-06-16T15:42:06.324Z",
+      "expired_at": null
+    },
+    {
+      "id": "58923965-b391-4302-93f9-0048909df623",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "device_fingerprint": "win_chrome_pc_901",
+      "ip_address": "127.0.0.1",
+      "lat": null,
+      "lng": null,
+      "login_method": "PASSWORD",
+      "created_at": "2026-06-20T15:44:36.122Z",
+      "expired_at": null
+    },
+    {
+      "id": "d473b59a-f6f4-4be1-825b-917cc89478c8",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "device_fingerprint": "win_chrome_pc_901",
+      "ip_address": "127.0.0.1",
+      "lat": null,
+      "lng": null,
+      "login_method": "PASSWORD",
+      "created_at": "2026-06-20T16:28:11.794Z",
+      "expired_at": null
+    },
+    {
+      "id": "43e7e544-ec84-4f14-8470-4c0780e6ef7a",
+      "user_id": "cafd5ff5-f408-449b-b210-407e5449562d",
+      "device_fingerprint": "win_chrome_pc_901",
+      "ip_address": "127.0.0.1",
+      "lat": null,
+      "lng": null,
+      "login_method": "PASSWORD",
+      "created_at": "2026-06-20T16:28:56.519Z",
+      "expired_at": null
+    },
+    {
+      "id": "63903706-d2c2-4891-b808-6102a4f97214",
+      "user_id": "43b1ef3a-4285-440e-a9a7-1718d95677e7",
+      "device_fingerprint": "win_chrome_pc_901",
+      "ip_address": "127.0.0.1",
+      "lat": null,
+      "lng": null,
+      "login_method": "PASSWORD",
+      "created_at": "2026-06-20T16:29:30.686Z",
+      "expired_at": null
+    }
+  ],
+  "notifications": [
+    {
+      "id": "e264fa97-f843-4fd9-b123-d212028fc186",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "channel": "SMS",
+      "type": "JOB_OFFER",
+      "payload": "{\"job_id\":\"f492818f-4793-4944-b6fd-38dbc2a55164\",\"title\":\"New Job Offer from Suresh Kumar\"}",
+      "delivered": 1,
+      "read_at": "2026-06-02T15:42:06.326Z",
+      "created_at": "2026-06-02T15:42:06.326Z"
+    },
+    {
+      "id": "ee80d990-7cb2-4b0f-81e2-071187160741",
+      "user_id": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "channel": "IN_APP",
+      "type": "FRAUD_ALERT",
+      "payload": "{\"alert_id\":\"457cf7d3-7028-4075-8ddf-01d5d5ab2573\",\"title\":\"Your profile has a Location Conflict flag under review\"}",
+      "delivered": 1,
+      "read_at": null,
+      "created_at": "2026-06-16T15:42:06.329Z"
+    }
+  ],
+  "disputes": [
+    {
+      "id": "5861814a-4720-414c-bd36-16dfa1b34f83",
+      "job_id": "c6421469-c17b-4342-940f-0209b69da186",
+      "raised_by": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "reason": "Contractor refuses to pay. I worked for 3 hours and fixed the main pipeline. The leakage was from a different pipe that was not in my scope.",
+      "evidence": "{\"photos\":[\"https://disputes.labourlink.in/evidence/photo_pipe.jpg\"]}",
+      "status": "OPEN",
+      "resolved_by": null,
+      "resolution_notes": null,
+      "created_at": "2026-06-13T15:42:06.292Z",
+      "resolved_at": null
+    }
+  ],
+  "availability_log": [
+    {
+      "id": "04d08057-4f7d-444d-9cd3-ae0f62d263a0",
+      "worker_id": "57ab2860-4854-4c70-86df-89c7ad2cfabe",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.013Z"
+    },
+    {
+      "id": "e75f12ac-2996-4f40-bbb4-3e9bd026d2f0",
+      "worker_id": "310eb4c1-5dc4-4760-9aed-b21f57a8508f",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.026Z"
+    },
+    {
+      "id": "c60f1317-75ea-4f60-9448-1ec0bce37f0b",
+      "worker_id": "637e9afe-1fe7-494c-8819-457239f76a47",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.041Z"
+    },
+    {
+      "id": "8cd4572a-395f-4ee0-a203-fceaa257b43b",
+      "worker_id": "debd438b-0e49-4d9c-abb4-0cc6d1294eac",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.055Z"
+    },
+    {
+      "id": "e79168ca-744e-4415-888b-f59f1cb8eb66",
+      "worker_id": "e4b32157-a9a8-4cf2-9ee0-9e40096e07f0",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.070Z"
+    },
+    {
+      "id": "7cf4f4f7-8d3f-4ed2-a58a-7fdf0b366292",
+      "worker_id": "3062ef61-8c78-44bc-a614-a69d28267292",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.084Z"
+    },
+    {
+      "id": "28a7e380-2c58-434a-a4a3-622080d1dd97",
+      "worker_id": "ab8839af-eee0-43c9-b6c0-a4373d265d10",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.100Z"
+    },
+    {
+      "id": "a0c228f5-5a12-419b-93d4-ae179d0d4dc5",
+      "worker_id": "964e6cc2-9898-4791-85b0-81e74331edda",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.117Z"
+    },
+    {
+      "id": "59682be8-5df5-4652-9a3b-2c6e3ff9a450",
+      "worker_id": "497b9010-7453-4a97-ac54-0feb29869b20",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.131Z"
+    },
+    {
+      "id": "de8f1315-081c-4990-9f34-ecf5ab9c13fc",
+      "worker_id": "2d3fdf5e-44b1-40cb-a55b-bc443d9d066e",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.144Z"
+    },
+    {
+      "id": "36ac6f3c-7f6f-4bc0-af2c-8185e8e5794f",
+      "worker_id": "c97efc67-1061-4caf-8897-d7379a3c4045",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.159Z"
+    },
+    {
+      "id": "20ff3e7c-54b0-4b41-9af0-42dbdc2889de",
+      "worker_id": "e387834c-d437-4f30-af16-6aa85e7cb01d",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.174Z"
+    },
+    {
+      "id": "101761d5-c06b-4a5d-bb1f-2191a4c8a516",
+      "worker_id": "9a8b9dc4-83c2-43be-8fa4-1bcf9cb39f6b",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.190Z"
+    },
+    {
+      "id": "012dc991-a3f4-472f-a80d-7de6d4a1c00f",
+      "worker_id": "c0bd603e-0fc1-4054-b3df-2d11f35fc512",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.206Z"
+    },
+    {
+      "id": "33c07aab-7560-4b04-83d5-2b7960840021",
+      "worker_id": "0228623f-bc72-466c-9b94-63b4b9bcacae",
+      "status": "AVAILABLE",
+      "set_via": "UI",
+      "created_at": "2026-06-15T15:42:06.223Z"
+    }
+  ],
+  "consent_records": [
+    {
+      "id": "6acec503-19b8-4259-9ab8-fe58de155cd5",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.009Z"
+    },
+    {
+      "id": "aae66d2a-647c-474b-aee9-ec4c823edec4",
+      "user_id": "9fc1e2b0-c525-47d3-ad96-e07d765b43c6",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.011Z"
+    },
+    {
+      "id": "881e4bb7-f37b-4669-b086-e57a974a8dc2",
+      "user_id": "8965b4c5-a7dc-41ff-bdb5-30008371416b",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.023Z"
+    },
+    {
+      "id": "a12fbf7a-eab9-4d1a-840c-91f871f7627b",
+      "user_id": "8965b4c5-a7dc-41ff-bdb5-30008371416b",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.025Z"
+    },
+    {
+      "id": "6e7f7699-5289-4610-815b-0ceccb3ee23a",
+      "user_id": "66226344-b558-4615-acd1-db6a6ee1bc5c",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.037Z"
+    },
+    {
+      "id": "31211482-022a-46ab-bd66-7c3843dee4f1",
+      "user_id": "66226344-b558-4615-acd1-db6a6ee1bc5c",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.039Z"
+    },
+    {
+      "id": "b74bceb3-c7f8-4109-91b1-edba3e09a4c6",
+      "user_id": "1e9846ae-89fc-4c04-ab96-2ef2f9cac382",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.051Z"
+    },
+    {
+      "id": "1639a50b-edd4-4485-968c-7f3d7bf75f0e",
+      "user_id": "1e9846ae-89fc-4c04-ab96-2ef2f9cac382",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.053Z"
+    },
+    {
+      "id": "2622132a-47fb-4a30-b6c9-4042010616a6",
+      "user_id": "e20f9d83-8ba7-43ef-8ebd-0b889cc8abe8",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.066Z"
+    },
+    {
+      "id": "e67ee8cd-827e-450e-8eee-e42ac4ae14da",
+      "user_id": "e20f9d83-8ba7-43ef-8ebd-0b889cc8abe8",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.068Z"
+    },
+    {
+      "id": "3671bb0e-89c6-413e-82dc-13a06a60ff03",
+      "user_id": "37058aeb-af36-4e88-baa1-2fc6d564d617",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.079Z"
+    },
+    {
+      "id": "4a24febc-13de-442c-b1d2-ca86e85a6ff1",
+      "user_id": "37058aeb-af36-4e88-baa1-2fc6d564d617",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.082Z"
+    },
+    {
+      "id": "89189456-ebfe-4843-af4c-c34fa0654ea8",
+      "user_id": "f3f41903-84dc-4b89-a8ed-a1f7396ea7dd",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.094Z"
+    },
+    {
+      "id": "9944a5f6-20e1-4a6d-901c-6c97cc41a17d",
+      "user_id": "f3f41903-84dc-4b89-a8ed-a1f7396ea7dd",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.097Z"
+    },
+    {
+      "id": "c81fc39c-1e0b-491e-896f-b37e581fe7c2",
+      "user_id": "ebad4c0e-4937-4705-92cb-4aee0b331eee",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.111Z"
+    },
+    {
+      "id": "8672bc47-6337-44c2-83c0-9a1d7318523d",
+      "user_id": "ebad4c0e-4937-4705-92cb-4aee0b331eee",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.114Z"
+    },
+    {
+      "id": "86d86e45-a6e4-4d59-a9fb-48891fc27103",
+      "user_id": "32e4d9b7-6a6e-4b61-8c6e-34b54f14e8e2",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.126Z"
+    },
+    {
+      "id": "9b921cda-e2eb-460b-9b91-9f0dcb424959",
+      "user_id": "32e4d9b7-6a6e-4b61-8c6e-34b54f14e8e2",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.128Z"
+    },
+    {
+      "id": "46d0579e-3a03-4826-aaea-46dd048126ba",
+      "user_id": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.141Z"
+    },
+    {
+      "id": "3754b67c-4f48-4510-be16-6bf541ac789b",
+      "user_id": "847897ae-b9a4-4ca6-84b8-bde714881b45",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.142Z"
+    },
+    {
+      "id": "4a9c1e42-7af2-4ffb-9775-2ffdfc794151",
+      "user_id": "ed4c3017-f16d-4c71-a7be-21656f5888de",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.156Z"
+    },
+    {
+      "id": "9af3adca-0718-4798-860a-6011fa8d6cb0",
+      "user_id": "ed4c3017-f16d-4c71-a7be-21656f5888de",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.158Z"
+    },
+    {
+      "id": "aa69e2db-46ee-4153-8bed-16cb705d77e6",
+      "user_id": "c1405644-0790-4d33-94b0-c0faaf93284a",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.171Z"
+    },
+    {
+      "id": "672f04a9-ea53-4975-a992-1523ec71db38",
+      "user_id": "c1405644-0790-4d33-94b0-c0faaf93284a",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.173Z"
+    },
+    {
+      "id": "11e28751-30bd-43de-88b6-316ef223da3e",
+      "user_id": "2dba6d62-3218-4351-9d89-39fb2eb72f10",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.186Z"
+    },
+    {
+      "id": "7c8439b3-e208-4dee-afb0-2edd7325d6b3",
+      "user_id": "2dba6d62-3218-4351-9d89-39fb2eb72f10",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.188Z"
+    },
+    {
+      "id": "250aedbf-1113-41b9-95a1-995dfe9c48f7",
+      "user_id": "4a167e9d-a24d-4bf6-ba8a-aa02ecafcd80",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.202Z"
+    },
+    {
+      "id": "deb8ed92-1d31-4e61-b505-0ddc0ee5d772",
+      "user_id": "4a167e9d-a24d-4bf6-ba8a-aa02ecafcd80",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.204Z"
+    },
+    {
+      "id": "cdc769a7-37e9-4bb4-b00a-1745c72f8ac6",
+      "user_id": "a94219fd-18a4-40a0-a945-854cbb8dd5ae",
+      "consent_type": "VOICE_RECORDING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.218Z"
+    },
+    {
+      "id": "c1a37daa-2203-45c2-bafb-0ca54fb5b388",
+      "user_id": "a94219fd-18a4-40a0-a945-854cbb8dd5ae",
+      "consent_type": "DATA_PROCESSING",
+      "granted": 1,
+      "granted_via": "UI",
+      "created_at": "2026-05-26T15:42:06.221Z"
+    }
+  ],
+  "admin_actions": [],
+  "customer_profiles": [],
+  "service_requests": [],
+  "bookings": [],
+  "skills_taxonomy": []
+}
