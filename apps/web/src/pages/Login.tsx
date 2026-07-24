@@ -8,7 +8,6 @@ import {
   Building2, 
   Users, 
   CheckCircle2, 
-  Briefcase, 
   Fingerprint, 
   UserCheck, 
   AlertTriangle, 
@@ -190,36 +189,6 @@ export const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
           <p className="hero-description">
             Connecting verified workers, reliable contractors and customers through an AI-powered trust infrastructure.
           </p>
-
-          <div className="stats-container">
-            <div className="stat-card">
-              <div className="stat-header">
-                <div className="stat-icon-wrapper">
-                  <Users size={16} />
-                </div>
-                <span className="stat-value">10,000+</span>
-              </div>
-              <span className="stat-label">Verified Workers</span>
-            </div>
-            <div className="stat-card">
-              <div className="stat-header">
-                <div className="stat-icon-wrapper">
-                  <Shield size={16} />
-                </div>
-                <span className="stat-value">98%</span>
-              </div>
-              <span className="stat-label">Trust Accuracy</span>
-            </div>
-            <div className="stat-card">
-              <div className="stat-header">
-                <div className="stat-icon-wrapper">
-                  <Briefcase size={16} />
-                </div>
-                <span className="stat-value">5,000+</span>
-              </div>
-              <span className="stat-label">Jobs Completed</span>
-            </div>
-          </div>
         </div>
 
         {/* Central Worker Group Image */}
